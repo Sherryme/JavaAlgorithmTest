@@ -3,7 +3,7 @@ package HomeWork;
 public class CoalProblem {
 
 	public static void main(String[] args) {
-		// TODO 自动生成的方法存根
+		// TODO 脳脭露炉脡煤鲁脡碌脛路陆路篓麓忙赂霉
 		int j=0;
 		int sum=0;
 		for(int i=0;i<100;i++) {
